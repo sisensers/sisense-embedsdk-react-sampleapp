@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using template [cra-template-typescript](https://www.npmjs.com/package/cra-template-typescript)
 
-## Using the EmbedSDK component
+## Using the EmbedSDK component in your application
 
 Example shown in `src/App.tsx`
 
@@ -39,8 +39,14 @@ Other features can be contolled via the component props:
 />
 ```
 
-![react-embedSDK](https://user-images.githubusercontent.com/9842660/232162477-1871de35-25dd-4936-8e31-949180004439.gif)
+## Using this example application
 
+- Clone the repository locally
+- Start the application via `npm start` as explained below under 'Available Scripts'
+- Paste in the URL to your sisense application (without the trailing slash e.g. `https://your.sisense.com` and also the dashboard ID you want to embed, into the relevant inputs in the page
+- The dashboard should load, and you can toggle the UI components on and off.
+
+![react-embedSDK](https://user-images.githubusercontent.com/9842660/232162477-1871de35-25dd-4936-8e31-949180004439.gif)
 
 ## Available Scripts
 
