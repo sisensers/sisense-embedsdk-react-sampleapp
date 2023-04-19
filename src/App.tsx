@@ -1,6 +1,6 @@
 import { useRef, useState } from 'react'
 import { Row, Form, InputGroup, Stack } from 'react-bootstrap'
-import SisenseDashboardEmbed from './SisenseEmbedSDK'
+import SisenseDashboardEmbed from 'sisense-embedsdk-react'
 
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
