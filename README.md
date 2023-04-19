@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Example shown in `src/App.tsx`
 
-Minimum required is to import the component:
+Minimum required is to copy the `SisenseEmbedSDK` folder into your application, and import the component:
 ```
 import SisenseDashboardEmbed from './SisenseEmbedSDK'
 ```
@@ -24,6 +24,7 @@ Other features can be contolled via the component props:
 ```
 <SisenseDashboardEmbed
   sisenseUrl={sisenseUrl}
+  urlParams={urlParams}
   dashboardId={dashboardId}
   showLeftPane={false}
   showRightPane={true}
