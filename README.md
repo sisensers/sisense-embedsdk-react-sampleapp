@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using template [cra-template-typescript](https://www.npmjs.com/package/cra-template-typescript)
 
-This application demonstrates how to use the sisense-embedsdk-react library https://github.com/sisensers/sisense-embedsdk-react
+This application demonstrates a simple example of how to use the sisense-embedsdk-react library https://github.com/sisensers/sisense-embedsdk-react
 
 ## Using this example application
 
