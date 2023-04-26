@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sisense-embedsdk-react/static/css/main.f908fc4e.css",
-    "main.js": "/sisense-embedsdk-react/static/js/main.1808596f.js",
-    "static/js/787.93ebac76.chunk.js": "/sisense-embedsdk-react/static/js/787.93ebac76.chunk.js",
-    "index.html": "/sisense-embedsdk-react/index.html",
-    "main.f908fc4e.css.map": "/sisense-embedsdk-react/static/css/main.f908fc4e.css.map",
-    "main.1808596f.js.map": "/sisense-embedsdk-react/static/js/main.1808596f.js.map",
-    "787.93ebac76.chunk.js.map": "/sisense-embedsdk-react/static/js/787.93ebac76.chunk.js.map"
+    "main.css": "/sisense-embedsdk-react-sampleapp/static/css/main.f908fc4e.css",
+    "main.js": "/sisense-embedsdk-react-sampleapp/static/js/main.3f814cf7.js",
+    "static/js/787.93ebac76.chunk.js": "/sisense-embedsdk-react-sampleapp/static/js/787.93ebac76.chunk.js",
+    "index.html": "/sisense-embedsdk-react-sampleapp/index.html",
+    "main.f908fc4e.css.map": "/sisense-embedsdk-react-sampleapp/static/css/main.f908fc4e.css.map",
+    "main.3f814cf7.js.map": "/sisense-embedsdk-react-sampleapp/static/js/main.3f814cf7.js.map",
+    "787.93ebac76.chunk.js.map": "/sisense-embedsdk-react-sampleapp/static/js/787.93ebac76.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f908fc4e.css",
-    "static/js/main.1808596f.js"
+    "static/js/main.3f814cf7.js"
   ]
 }
