@@ -1,8 +1,9 @@
-# Getting Started with Sisense EmbedSDK React SampleApp
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using template [cra-template-typescript](https://www.npmjs.com/package/cra-template-typescript)
+# Getting Started with Sisense Embed SDK React SampleApp
 
 This application demonstrates a simple example of how to use the sisense-embedsdk-react library https://github.com/sisensers/sisense-embedsdk-react
+
+## See it in action
+View a live version and embed your own Sisense Dashboard here https://sisensers.github.io/sisense-embedsdk-react-sampleapp/
 
 ## Using this example application
 
@@ -13,6 +14,8 @@ This application demonstrates a simple example of how to use the sisense-embedsd
 - The dashboard should load, and you can toggle the UI components on and off.
 
 ![react-embedSDK](https://user-images.githubusercontent.com/9842660/232162477-1871de35-25dd-4936-8e31-949180004439.gif)
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using template [cra-template-typescript](https://www.npmjs.com/package/cra-template-typescript)
 
 ## Available Scripts
 
