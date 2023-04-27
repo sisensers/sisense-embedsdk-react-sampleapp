@@ -1,6 +1,6 @@
 {
   "name": "sisense-embedsdk-react-sampleapp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": true,
   "homepage": "https://sisensers.github.io/sisense-embedsdk-react-sampleapp",
   "dependencies": {
